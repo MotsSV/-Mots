@@ -60,7 +60,20 @@ body {
 .form a {
 	display: block;
 	padding: 0 0 30px;
-	text-align: center;
+	text-align: left;
+	color: #fff;
+	text-decoration: none;
+	transition: .3s;
+}
+
+.form a:hover {
+	color: #0fc3f5;
+}
+
+.form a {
+	display: block;
+	padding: 0 0 30px;
+	text-align: right;
 	color: #fff;
 	text-decoration: none;
 	transition: .3s;
