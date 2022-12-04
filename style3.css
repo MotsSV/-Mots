@@ -2,3 +2,7 @@ html {
 overflow-x: hidden;
 overflow-y: scroll;
 }
+
+.grid {
+  flex-wrap: wrap;
+}  
