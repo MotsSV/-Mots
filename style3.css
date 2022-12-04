@@ -1,8 +1,3 @@
-html {
-overflow-x: hidden;
-overflow-y: scroll;
-}
-
-.grid {
-  flex-wrap: wrap;
-}  
+body {
+background-image: url("top-view-cinema-elements-on-yellow-background.jpg");
+{
